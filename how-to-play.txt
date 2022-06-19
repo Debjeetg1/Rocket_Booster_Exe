@@ -1,0 +1,4 @@
+1) you have to land the rocket straight in the green landing pad
+2) if you touch any of the obstacle you die and respawn in the blue take off pad
+3) there are totally 3 levels , once you finish all of them you it takes to level 1 again
+4) A,D to move the rocket and space to use thrust
